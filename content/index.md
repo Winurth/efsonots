@@ -2,14 +2,11 @@
 title: EfsoNots
 ---
 
-# Welcome to EfsoNots!
+# EfsoNots
 
-My personal knowledge base for Computer Science and Business Informatics.
+Öğrendiğim konuları birbiriyle bağladığım kişisel bilgi alanım.
 
-## 📚 University Notes
+## Programlama
 
-- [[PI02/SINAVA HAZIRLIK|Praktische Informatik 2]]
+- [[Java/Java|Java]] — veri yapıları, algoritmalar ve Java örnekleri.
 
-## About
-
-Notes, algorithms, programming and everything I'm learning.
